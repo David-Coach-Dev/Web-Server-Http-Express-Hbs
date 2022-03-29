@@ -29,10 +29,10 @@ app.get("/elements", (req, res) => {
     title: "Developer",
   });
 });
-app.get("/a", (req, res) => {
+app.get("/angular", (req, res) => {
   res.sendFile(__dirname + "/public/angular-app/");
   });
-app.get("/r", (req, res) => {
+app.get("/react", (req, res) => {
   res.sendFile(__dirname + "/public/react/");
 });
 app.get("/*", (req, res) => {
