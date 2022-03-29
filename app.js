@@ -30,10 +30,10 @@ app.get("/elements", (req, res) => {
   });
 });
 app.get("/angular", (req, res) => {
-  res.sendFile(__dirname + "/public/angular-app");
+  res.sendFile(__dirname + "/public/angular-app/");
   });
 app.get("/react", (req, res) => {
-  res.sendFile(__dirname + "/public/react");
+  res.sendFile(__dirname + "/public/react/");
 });
 app.get("/*", (req, res) => {
   res.render("404", {
