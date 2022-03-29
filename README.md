@@ -1,4 +1,4 @@
-<h1 align="center">Webserver - HTTP - EXPRESS - HBS</h1>
+<h1 align="center">Web - Server - Http - Express - Hbs</h1>
 <p align="center">
   Esta es una aplicación de Web Server con Http, Express, Hbs y Node.js.
 </p>
