@@ -25,6 +25,10 @@
   <a href="https://devcenter.heroku.com/" target="_blank" rel="heroku">
   <img src="https://www.herokucdn.com/favicons/favicon.ico" alt="heroku" width="50" height="50"/>
    - heroku</a>
+  <br><br>
+  <a href="https://www.npmjs.com/package/http-server" target="_blank" rel="http-server">
+  <img src="https://i.imgur.com/V1RWR7l.png" alt="http-server" width="50" height="50"/>
+   - http-server</a>
 </p>
 <h1></h1>
 <h2 align="center">Nota</h2>

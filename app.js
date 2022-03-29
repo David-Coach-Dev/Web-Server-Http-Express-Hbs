@@ -29,6 +29,12 @@ app.get("/elements", (req, res) => {
     title: "Developer",
   });
 });
+app.get("/a", (req, res) => {
+  res.sendFile(__dirname + "/public/angular-app/");
+  });
+app.get("/r", (req, res) => {
+  res.sendFile(__dirname + "/public/react/");
+});
 app.get("/*", (req, res) => {
   res.render("404", {
     name: "Dc Dev",
