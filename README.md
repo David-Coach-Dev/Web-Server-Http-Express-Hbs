@@ -20,7 +20,7 @@
 - <br><br>
   <a href="https://www.npmjs.com/package/dotenv" target="_blank" rel="dotenv.js">
   <img src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.png" alt="dotenv.js" width="50" height="50"/>
-   - notenv.js</a>
+   - dotenv.js</a>
  - <br><br>
   <a href="https://devcenter.heroku.com/" target="_blank" rel="heroku">
   <img src="https://www.herokucdn.com/favicons/favicon.ico" alt="heroku" width="50" height="50"/>
