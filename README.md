@@ -39,28 +39,3 @@
     npm install
 
 <h1></h1>
-<p align="center">
-  <h2 align="center">Web-Server-Http-Express-Hbs Video</h2>
-    <img src="" alt="video" width="100%" height="100%"/>
-</p>
-<h1></h1>
-<p align="center">
-  <h2 align="center">Home</h2>
-    <img src="" alt="home" width="100%" height="100%"/>
-</p>
-<h1></h1>
-<p align="center">
-  <h2 align="center">Generic</h2>
-    <img src="" alt="generic" width="100%" height="100%"/>
-</p>
-<h1></h1>
-<p align="center">
-  <h2 align="center">Elements</h2>
-    <img src="" alt="elements" width="100%" height="100%"/>
-</p>
-<h1></h1>
-<p align="center">
-  <h2 align="center">Error 404</h2>
-    <img src="" alt="error-404" width="100%" height="100%"/>
-</p>
-<h1></h1>
